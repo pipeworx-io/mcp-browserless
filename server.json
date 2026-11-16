@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/browserless",
-  "title": "Browserless",
-  "description": "Browserless MCP — wraps the Browserless headless-Chromium REST API (browserless.io)",
-  "version": "0.2.1",
+  "title": "Browserless (Unofficial)",
+  "description": "Unofficial Browserless MCP — wraps the Browserless headless-Chromium REST API (browserless.io)",
+  "version": "0.2.2",
   "websiteUrl": "https://pipeworx.io/packs/browserless",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-browserless",

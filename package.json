@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-browserless",
-  "version": "0.2.1",
-  "description": "Browserless MCP — wraps the Browserless headless-Chromium REST API (browserless.io)",
+  "version": "0.2.2",
+  "description": "Unofficial Browserless MCP — wraps the Browserless headless-Chromium REST API (browserless.io)",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "browserless",
     "gatewaySlug": "browserless",
-    "sourceHash": "v1-f2d02f9f3fe1332286efed4d268b753665fd37ff950f2ce5f4d805267e8d16d8",
-    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
+    "sourceHash": "v1-3f6c065a76ae31e5fcfad874c2c18e2c1f071c2d06115ddcd51d936f99e61b60",
+    "sourceCommit": "874331b0c46b151f9264bd14840631427a7721c1"
   }
 }
